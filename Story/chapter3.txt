@@ -1,1 +1,1 @@
-gsrt3yw
+gsrt3ywqgit clean -f -x
